@@ -15,19 +15,16 @@ The ARA Assistant is an advanced, specialized GPT-powered assistant designed to 
 
 Follow these steps to use the ARA Assistant Jupyter Notebook:
 
-1. **Clone the Repository**:
+1. **Clone the Repository**: Begin by cloning the repository to your local machine. Open a terminal or command prompt and run:
 
-Begin by cloning the repository to your local machine. Open a terminal or command prompt and run:
-
-```bash
-   git clone https://github.com/sourav-launchpad/ARA-Assistant.git
-```
-
-This will download the repository's contents to a folder named ARA-Assistant in your current directory.
+	```bash
+	git clone https://github.com/sourav-launchpad/ARA-Assistant.git
+	```
 
 This will download the repository's contents to a folder named `ARA-Assistant` in your current directory.
 
 2.  **Navigate to the Repository**: Change into the repository directory by running:
+
 	```bash
     cd ARA-Assistant
 	```  
@@ -36,6 +33,7 @@ This will download the repository's contents to a folder named `ARA-Assistant` i
 
 -   Ensure Python (version 3.x) is installed on your system. You can download it from [python.org](https://www.python.org/).
 -   Install Jupyter Notebook by running:
+
 	```bash
     pip install notebook
 	```  
