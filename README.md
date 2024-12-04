@@ -62,3 +62,8 @@ This will open a new tab in your default web browser showing the Jupyter Noteboo
 7. **Explore and Interact:**
 - The `ARA_Assistant.ipynb` notebook contains all the logic and interactive code for the assistant.
 - Follow any prompts or instructions in the notebook to explore its capabilities.
+
+
+### Notes
+- To access the ARA Assistant, you must create an OpenAI API key.
+- You also need the Assistant ID to interact with the assistant effectively.
