@@ -23,8 +23,6 @@ Begin by cloning the repository to your local machine. Open a terminal or comman
    git clone https://github.com/sourav-launchpad/ARA-Assistant.git
 ```
 
-This will download the repository's contents to a folder named ARA-Assistant in your current directory.
-
 This will download the repository's contents to a folder named `ARA-Assistant` in your current directory.
 
 2.  **Navigate to the Repository**: Change into the repository directory by running:
