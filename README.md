@@ -60,10 +60,10 @@ This will open a new tab in your default web browser showing the Jupyter Noteboo
 	- Run the notebook cells sequentially to execute the code.
 
 7. **Explore and Interact:**
-- The `ARA_Assistant.ipynb` notebook contains all the logic and interactive code for the assistant.
-- Follow any prompts or instructions in the notebook to explore its capabilities.
+	- The `ARA_Assistant.ipynb` notebook contains all the logic and interactive code for the assistant.
+	- Follow any prompts or instructions in the notebook to explore its capabilities.
 
 
 ### Notes
-- To access the ARA Assistant, you must create an OpenAI API key.
+- To access the ARA Assistant, you must create an OpenAI API key. Here are the instructions you can follow: [Link](https://drive.google.com/file/d/1u4b0vVEZFQNUZv2C_sce5Td_rRfYpBwU/view?usp=sharing)
 - You also need the Assistant ID to interact with the assistant effectively.
